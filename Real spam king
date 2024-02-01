@@ -1,0 +1,3 @@
+do
+x=msgbox ("I AM THE SPAM KING" ,4096, "SPAM KING")
+loop
